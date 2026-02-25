@@ -3,7 +3,7 @@
 **Tarih:** [Örn: 15 Kasım 2026]
 **Hafta:** [Örn: 3. Hafta]
 **Takım:** [Grup 1 (Veri/YZ) veya Grup 2 (Donanım)]
-**Raporu Yazan:** [Takım Lideri veya Üyenin Adı]
+**Raporu Yazan:** [ Üyenin Adı]
 
 #### 1. Bu Hafta Neler Tamamlandı? (Done)
 *(Bu hafta başarıyla bitirdiğiniz, çalışan kodlar veya kurulan devreler neler? Kısa madde imleri halinde yazın.)*
