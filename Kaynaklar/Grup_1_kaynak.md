@@ -30,7 +30,3 @@ Aşağıda farklı alanlar için kullanacağımız temel kaynakları gruplandır
 
 ---
 
-## 📂 Proje Karargahımız
-
-Projeler boyunca tüm kodlarımızı, raporlarımızı ve ortak formatlarımızı bu depo (repository) üzerinden yöneteceğiz. 
-🔗 **Depo Linki:** [https://github.com/hsorut/SPS-Robot-Hazirlik-Kampi](https://github.com/hsorut/SPS-Robot-Hazirlik-Kampi)
