@@ -23,7 +23,7 @@ Aşağıda farklı alanlar için kullanacağımız temel kaynakları gruplandır
 * [The Ultimate Guide To Speech Recognition With Python – Real Python](https://realpython.com/python-speech-recognition/): Python ile ses işleme rehberi.
 
 ### ⚙️ Donanım, Web ve İletişim
-* [W3Schools.com](https://www.w3schools.com/): Web tarafı (HTML, CSS, JS vb.) için temel başvuru kaynağı.
+* [W3Schools.com](https://www.w3schools.com/): 
 * **017 - ESP32 MicroPython: DHT Values Auto Updates using AJAX:** MicroPython ile sensör verisi güncelleme pratiği. *(YouTube üzerinden bu isimle aratarak bulabilirsiniz).*
 * [Random Nerd Tutorials](https://randomnerdtutorials.com/): ESP32, ESP8266 ve donanım projeleri için internetteki en iyi rehber.
 * [Tech With Tim](https://www.youtube.com/@TechWithTim): FastAPI, WebSockets ve Python ile API/Sistem haberleşmesi eğitimleri.
