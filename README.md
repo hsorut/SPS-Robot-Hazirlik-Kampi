@@ -1,6 +1,6 @@
 # 🚀 IEEE DEU SPS Robot Hazırlık Kampı: "60 Günlük Büyük Vizyon"
 
-**Slogan:** *"1. Ayda Uzmanlaş, 2. Ayda İmzanı At!"*
+*"1. Ayda Uzmanlaş, 2. Ayda İmzanı At!"*
 
 Bu depo, ekibimizin geliştireceği büyük **"SPS Etkileşimli Robot"** projesi öncesinde kurgulanan; 45 günlük (6 hafta) yoğun teknik eğitim ve ardından gelen 15 günlük (2 hafta) inşa sürecinden oluşan toplam 60 günlük hazırlık kampının merkezidir.
 
